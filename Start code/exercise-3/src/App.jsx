@@ -1,7 +1,6 @@
 import React from "react";
 import { ALL_PNV_TEACHERS } from "./teachers.js";
 
-// NO change to perform here...
 export function User({ user }) {
   return (
     <div id="user" data-testid="user">

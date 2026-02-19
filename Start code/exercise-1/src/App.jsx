@@ -16,7 +16,6 @@ export function User() {
   );
 }
 
-// DON'T edit the App component code
 function App() {
   return (
     <div id="app">
